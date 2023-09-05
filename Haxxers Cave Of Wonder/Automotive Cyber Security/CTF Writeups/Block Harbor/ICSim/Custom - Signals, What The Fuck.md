@@ -1,0 +1,1 @@
+This CTF involves the idea of asking users or players of the CTF how exactly they can make both signals turn on at the same time by writing one value to the network.
